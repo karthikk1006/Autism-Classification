@@ -70,4 +70,4 @@ To run the app, you need to install the following dependencies:
 
 ## Deployed Link
 
-You can access the app directly at [Traffic Management App](https://autism-classification.streamlit.app/)
+You can access the app directly at [Autism Classification App](https://autism-classification-prediction.streamlit.app/Models)
